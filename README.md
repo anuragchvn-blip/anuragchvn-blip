@@ -34,4 +34,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anuragchvn-blip/anuragchvn-blip/output/snake.svg" alt="Snake animation" />
