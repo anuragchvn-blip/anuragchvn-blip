@@ -2,9 +2,9 @@
 
 
 ```python
-Name =  "Vishal Choubey"
+Name =  "Anurag chavan"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
-Languages = ["C++", "C", "React", "JavaScript",]
+Languages = ["C++", "React", "JavaScript",]
 ```
 
 <div align=center>
